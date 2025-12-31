@@ -12,8 +12,8 @@
   "profile": {
     "mtime": 1455826980,
     "full_name": "Przemek Pawlas",
-    "location": null,
-    "bio": null
+    "location": 
+    "bio": 
   },
   "public_keys": {
     "primary": {
@@ -29,7 +29,7 @@
       "signing_kid": "0101c43f0693663929fe6e4b1fdd66338cee54b454484efa8575f77a7364c8ac86510a",
       "key_level": 0,
       "etime": 1613506999,
-      "eldest_kid": null,
+      "eldest_kid":,
       "status": 0,
       "self_signed": true
     },
